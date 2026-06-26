@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MarketplaceApi.ApiService/MarketplaceApi.ApiService.csproj" />
+  <Project Path="MarketplaceApi.AppHost/MarketplaceApi.AppHost.csproj" />
+  <Project Path="MarketplaceApi.ServiceDefaults/MarketplaceApi.ServiceDefaults.csproj" />
+  <Project Path="MarketplaceApi.Tests/MarketplaceApi.Tests.csproj" />
+  <Project Path="MarketplaceApi.Web/MarketplaceApi.Web.csproj" />
+</Solution>
